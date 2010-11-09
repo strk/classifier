@@ -1,3 +1,6 @@
+Classification utilities
+------------------------
+
 This tiny module is just a wrapper around a micro classifier library.
 See classifier.php for documentation.
 
