@@ -1,0 +1,5 @@
+name = Classifier
+description = Small set of interfaces and classes to help with classification/aggregation
+package = Chart
+core = 6.x
+version = "6.x-1.0"
