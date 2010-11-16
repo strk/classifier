@@ -1,7 +1,8 @@
 Classification utilities
-------------------------
+---------------------------------
+http://github.com/strk/classifier
 
 This tiny module is just a wrapper around a micro classifier library.
 See classifier.php for documentation.
 
-It is released in the public domain
+This code is released under the GPL3 licence (see COPYING)
