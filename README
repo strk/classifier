@@ -5,4 +5,5 @@ http://github.com/strk/classifier
 This tiny module is just a wrapper around a micro classifier library.
 See classifier.php for documentation.
 
-This code is released under the GPL3 licence (see COPYING)
+Copyright (C) 2010 Sandro Santilli <strk@keybit.net>
+Released under the GPL3 licence (see COPYING)
